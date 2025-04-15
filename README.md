@@ -25,5 +25,5 @@ Fraudulent transactions are a major challenge in the financial and e-commerce se
 
 
 **RESULTS:**
--Model Accuracy after Soft Voting of Random Forest and XGBoost Classifier: 95.19999999999999
--Model Accuracy after Hard Voting of Random Forest and XGBoost Classifier: 95.23333333333333
+-Model Accuracy after Soft Voting of Random Forest and XGBoost Classifier: 95.19
+-Model Accuracy after Hard Voting of Random Forest and XGBoost Classifier: 95.23
